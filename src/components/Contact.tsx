@@ -1,6 +1,5 @@
 import { useState, useRef } from "react";
 import { MdArrowOutward, MdCopyright, MdSend } from "react-icons/md";
-import { FaGithub, FaInstagram, FaLinkedinIn, FaXTwitter } from "react-icons/fa6";
 import { TbMail, TbPhone, TbMapPin, TbCheck, TbX } from "react-icons/tb";
 import "./styles/Contact.css";
 
