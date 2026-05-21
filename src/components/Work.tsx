@@ -6,6 +6,26 @@ import { FaGithub } from "react-icons/fa6";
 
 const projects = [
   {
+    title: "Suryapura Rural Development Portal",
+    category: "Smart Village Mission Platform",
+    tools: "React 19 · TanStack Router · Tailwind CSS v4",
+    description:
+      "Premium bilingual (Hindi/English) digital platform for Smart Village Mission tracking rural development across education, agriculture, healthcare, and infrastructure with emotional storytelling and interactive timeline.",
+    image: "/images/surya.png",
+    live: "https://channel009-assignment.vercel.app/",
+    github: "https://github.com/bhipendar14/Channel009_Assignment",
+  },
+  {
+    title: "Eclipse Mall",
+    category: "Interactive Sales Deck",
+    tools: "React 19 · TanStack Router · Framer Motion · GSAP",
+    description:
+      "Cinematic, high-stakes interactive sales deck for commercial real estate with video-led storytelling, immersive interactions, and luxury brand-inspired UI. Built for non-linear navigation and modular expansion.",
+    image: "/images/eclips.png",
+    live: "https://eclipse-mall.vercel.app/",
+    github: "https://github.com/bhipendar14/Eclipse-Mall",
+  },
+  {
     title: "MeraAI",
     category: "AI Multi-Module Platform",
     tools: "Next.js · TypeScript · Node.js · MongoDB",
@@ -13,7 +33,7 @@ const projects = [
       "AI multi-module platform with chat, voice input and intelligent tools powered by LLM APIs.",
     image: "/images/meraai.png",
     live: "https://mera-ai-one.vercel.app/",
-    github: "https://github.com/bhipendar14",
+    github: "https://github.com/bhipendar14/MeraAi",
   },
   {
     title: "DSR Group Finance",
@@ -23,7 +43,7 @@ const projects = [
       "40+ page finance platform with live stock data, calculators and comprehensive financial tools.",
     image: "/images/dsr.png",
     live: "https://www.dsrgroupmandsaur.com/",
-    github: "https://github.com/bhipendar14",
+    github: "https://github.com/bhipendar14/DRS-GROUP-MANDSAUR",
   },
   {
     title: "B-Market",
@@ -33,7 +53,7 @@ const projects = [
       "Modern marketplace platform with product listings, cart management and seamless buying experience.",
     image: "/images/bmarket.png",
     live: "https://b-market.vercel.app/",
-    github: "https://github.com/bhipendar14",
+    github: "https://github.com/bhipendar14/B-Market",
   },
   {
     title: "PawToGo",
@@ -43,7 +63,7 @@ const projects = [
       "Pet pickup service scheduling platform connecting pet owners with trusted service providers.",
     image: "/images/pawtogo.png",
     live: "https://paw-to-go.vercel.app/",
-    github: "https://github.com/bhipendar14",
+    github: "https://github.com/bhipendar14/PAW-TO-GO",
   },
   {
     title: "ADmyBRAND",
@@ -53,7 +73,7 @@ const projects = [
       "AI-powered marketing tool landing page with modern UI, animations and conversion-focused design.",
     image: "/images/admybrand.png",
     live: "https://admybrand-landing-tsp6.vercel.app/",
-    github: "https://github.com/bhipendar14",
+    github: "https://github.com/bhipendar14/admybrand-landing",
   },
   {
     title: "HomeEase",
@@ -63,7 +83,7 @@ const projects = [
       "Real-time home service booking platform with live availability, instant scheduling and service management.",
     image: "/images/homeease.png",
     live: "https://home-ease-8c4y.vercel.app/",
-    github: "https://github.com/bhipendar14",
+    github: "https://github.com/bhipendar14/HomeEase",
   },
 ];
 
